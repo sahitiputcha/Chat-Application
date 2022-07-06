@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1097036436088",
+    "firebase_url": "https://final-c9c4d-default-rtdb.firebaseio.com",
+    "project_id": "final-c9c4d",
+    "storage_bucket": "final-c9c4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097036436088:android:8c05449557603325ec138d",
+        "android_client_info": {
+          "package_name": "com.appeteria.training.gupshup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097036436088-199alj6i9fn7fqspbnenmkciv1nt2sv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCSWNPaKjYG0H7nuJmsHPrs0Wvdlbe-bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097036436088-199alj6i9fn7fqspbnenmkciv1nt2sv9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
